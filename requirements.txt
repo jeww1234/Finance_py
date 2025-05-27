@@ -1,0 +1,4 @@
+FinanceDataReader
+streamlit
+datetime
+pandas
